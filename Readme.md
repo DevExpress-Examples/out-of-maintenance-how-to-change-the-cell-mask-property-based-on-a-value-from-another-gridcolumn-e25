@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Window1.xaml](./CS/WpfApplication5/Window1.xaml) (VB: [Window1.xaml](./VB/WpfApplication5/Window1.xaml))
+* [Window1.xaml.cs](./CS/WpfApplication5/Window1.xaml.cs) (VB: [Window1.xaml](./VB/WpfApplication5/Window1.xaml))
+<!-- default file list end -->
 # How to change the cell Mask property based on a value from another GridColumn
 
 
